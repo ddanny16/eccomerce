@@ -2994,8 +2994,8 @@ footer {
     -webkit-align-items: stretch;
         -ms-flex-align: stretch;
             align-items: stretch;
-    gap: 30px;
-  }
+      gap: 30px;
+    }
 
   .testimonial-card { margin-bottom: 0; }
 
